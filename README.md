@@ -7,10 +7,15 @@ Feel free to use it in your repositories. (Project description.)
 ## Information
 
 **Status**: `Completed` | `Dropped` | `Actively developed` | `Occasionally developed` | `Actively maintained` | `Occasionally maintained`
+
 **Type**: `Academic project` | `Personal project` | `Company project`
+
 **Course**: `Course name` [optional]
+
 **Development year(s)**: `XXXX` | `XXXX+` | `XXXX-XXXX`
+
 **Authors**: [user](user_page), [user](user_page), ...
+
 **Notes**: *notes* [optional]
 
 
@@ -104,5 +109,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 
-*This README complies with [this project template](link). Feel free to adopt it
+*This README complies with [this project template](https://github.com/ShadowTemplate/project-template). Feel free to adopt it
 and reuse it.*
