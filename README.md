@@ -14,100 +14,73 @@ Feel free to use it in your repositories. (Project description.)
 
 **Development year(s)**: `XXXX` | `XXXX+` | `XXXX-XXXX`
 
-**Authors**: [user](user_page), [user](user_page), ...
+**Authors**: [user](user_page), [user](user_page), ... [optional details]
 
 **Notes**: *notes* [optional]
 
 
-`` | `` | `` | `` | `` | `` |
-   
-
-
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Instructions to get a copy of the project up and running (on a local and/or 
+remote machine) and for development and testing purposes.
+
+```
+command
+```
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Instructions to get the required dependencies for the project.
 
 ```
-Give examples
+command
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Notes about how to install the project.
 
 ```
-Give the example
+command
 ```
 
-And repeat
+### Testing
+
+Notes about how to run tests.
 
 ```
-until finished
+command
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+### Deployment
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Notes about how to deploy the project on a live system.
 
 ```
-Give an example
+command
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
+## Building tools
 
-```
-Give an example
-```
+* [Tool/library/platform](link) - Reason it has been used for
+* [Tool/library/platform](link) - Reason it has been used for
+* ...
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+This project is not actively maintained and issues or pull requests may be 
+ignored. |
+Any contribution is welcome. Please read [CONTRIBUTING.md](link) for 
+details on how to submit pull requests.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the X license.
+Please refer to the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
-
-
+---
 *This README complies with [this project template](https://github.com/ShadowTemplate/project-template). Feel free to adopt it
 and reuse it.*
