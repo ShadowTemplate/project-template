@@ -14,7 +14,7 @@ Feel free to use it in your repositories. (Project description.)
 
 **Development year(s)**: `XXXX` | `XXXX+` | `XXXX-XXXX`
 
-**Authors**: [user](user_page), [user](user_page), ... [optional details]
+**Author(s)**: [user](user_page), [user](user_page), ... [optional details]
 
 **Notes**: *notes* [optional]
 
@@ -82,5 +82,6 @@ This project is licensed under the X license.
 Please refer to the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-*This README.md complies with [this project template](https://github.com/ShadowTemplate/project-template). Feel free to adopt it
+*This README.md complies with [this project template](
+https://github.com/ShadowTemplate/project-template). Feel free to adopt it
 and reuse it.*
