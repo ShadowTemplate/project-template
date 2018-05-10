@@ -14,7 +14,8 @@ Feel free to use it in your repositories. (Project description.)
 
 **Development year(s)**: `XXXX` | `XXXX+` | `XXXX-XXXX`
 
-**Author(s)**: [user](user_page), [user](user_page), ... [optional details]
+**Author(s)**: [user](user_page) [(optional contribution)], [user](user_page) 
+[(optional contribution)], ...
 
 **Notes**: *notes* [optional]
 
